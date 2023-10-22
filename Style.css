@@ -80,7 +80,7 @@ body{
 @media (max-width:400px){
     .container{
         width: 90%;
-        margin-top: 25px;
+        margin-top: 10px;
     }
     .search-wrapper button{
         font-size: .9em;
